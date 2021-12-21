@@ -1,3 +1,5 @@
+![image](Huzon.svg)
+
 ### Hi there 👋
 
-| [![Personal Metrics](](https://github.com/Huzon) | |
+#### Its me, Huzon.
